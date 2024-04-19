@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+
+}
+
+h3{
+    color:aliceblue
+}
+ul{
+    color:brown
+}
+ol{
+    color:brown
+    
+}
+h1 li{
+    color:brown
+}
+
+.lista {
+    display: flex;
+    justify-content: space-between;
+}
+.tabela1{
+    font-size: 40px;
+}
